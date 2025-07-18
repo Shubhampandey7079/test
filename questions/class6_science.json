@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which gas do plants absorb?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which gas do plants absorb?ww",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "options": ["Photosynthesis", "Respiration", "Digestion", "Transpiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the main source of energy for the Earth?",
+    "options": ["The Moon", "The Sun", "The Stars", "The Earth itself"],
+    "answer": "The Sun"
+  }
+]
